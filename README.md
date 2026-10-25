@@ -1,5 +1,7 @@
 # ARTIFEX
 
+**Live site: https://artifex-zeta-five.vercel.app** · participants: [/play](https://artifex-zeta-five.vercel.app/play) · leaderboard: [/leaderboard](https://artifex-zeta-five.vercel.app/leaderboard)
+
 The event website for **ARTIFEX**, Techvidya's 10-minute poster and flyer design competition:
 - registration;
 - a server-timed shared round;
