@@ -13,3 +13,4 @@ scripts/.bot-output/
 .DS_Store
 demo/
 .next-demo/
+.env*

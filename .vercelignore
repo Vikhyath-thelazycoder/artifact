@@ -1,0 +1,11 @@
+# Never upload secrets or local artefacts to Vercel.
+.env
+.env.*
+demo/
+.next/
+.next-dev/
+.next-demo/
+node_modules/
+supabase/.temp/
+supabase/.branches/
+scripts/.bot-output/
