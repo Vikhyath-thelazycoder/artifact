@@ -12,7 +12,8 @@
     "test:integration": "vitest run --config vitest.integration.config.ts",
     "bot-test": "tsx --env-file=.env.local scripts/bot-test.ts",
     "create-staff": "tsx --env-file=.env.local scripts/create-staff.ts",
-    "check:secrets": "node scripts/check-bundle-secrets.mjs"
+    "check:secrets": "node scripts/check-bundle-secrets.mjs",
+    "admin:sync": "tsx --env-file=.env.local scripts/sync-admin.ts"
   },
   "dependencies": {
     "@google/genai": "^2.31.0",

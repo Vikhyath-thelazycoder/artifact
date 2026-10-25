@@ -23,6 +23,8 @@ npm run dev                            # http://127.0.0.1:3000
 npm run create-staff -- --email you@example.com --role admin
 ```
 
+**Live admin login:** `ADMIN_EMAIL` and `ADMIN_PASSWORD` in `.env.local`. To change the password, edit `ADMIN_PASSWORD` and run `npm run admin:sync`. It updates the account on the live Supabase project (needs `PROD_SUPABASE_URL` and `PROD_SUPABASE_SERVICE_ROLE_KEY` in `.env.local`).
+
 Pages:
 - `/`: landing
 - `/rules`
