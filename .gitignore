@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.next-dev/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.env
+.env.*
+.vercel
+supabase/.temp/
+supabase/.branches/
+scripts/.bot-output/
+.DS_Store
+demo/
+.next-demo/
